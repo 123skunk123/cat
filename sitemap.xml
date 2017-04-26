@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://example.org/2017/04/26/my-ocdo-not-stealxdxdxdxd</loc>
+    <lastmod>2017-04-26T16:11:12-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.org/</loc>
+    <lastmod>2017-04-26T16:11:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.org/post/</loc>
+    <lastmod>2017-04-26T16:11:12-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
